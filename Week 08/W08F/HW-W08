@@ -1,0 +1,6 @@
+guest = 
+{ 
+    "Name": ["Michelle", "Kim", "Miguel"],
+    "Hotel": ["Hilton", "Hyatt", "Marriott"],
+    "wakeup": ["0400", "0700", "1600"]
+}
