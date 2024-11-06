@@ -1,6 +1,5 @@
-guest = 
-{ 
-    "Name": ["Michelle", "Kim", "Miguel"],
-    "Hotel": ["Hilton", "Hyatt", "Marriott"],
-    "wakeup": ["0400", "0700", "1600"]
+hotel_list = {
+    "Name": ["Sam", "Sally", Teddy"]
+    "Hotel": ["Hyatt", "Holiday Inn", "Ramada"]
+    "Wakeup": ["4", "7", "16"]
 }
