@@ -1,5 +1,4 @@
 hotel_list = {
     "Name": ["Sam", "Sally", Teddy"]
     "Hotel": ["Hyatt", "Holiday Inn", "Ramada"]
-    "Wakeup": ["4", "7", "16"]
-}
+    "Wakeup": ["4", "7", "16"]}
